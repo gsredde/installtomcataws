@@ -1,4 +1,4 @@
- # Install Tomcat 8.x in AWS EC2 Instance (Amazon Linux AMI) gsr
+ # Install Tomcat 8.x in AWS EC2 Instance (Amazon Linux AMI) awsre
 
 You will find as well the configuration of **Nginx** and **PostgreSQL**. Special thanks to @caden for the contribution!
 
